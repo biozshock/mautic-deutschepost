@@ -20,6 +20,9 @@
         "firebase/php-jwt": "^5.0",
         "mautic/core-lib": "^4.0"
     },
+    "extra": {
+        "install-directory-name": "MauticTriggerdialogBundle"
+    },
     "support": {
         "issues": "https://github.com/Leuchtfeuer/mautic-deutschepost/issues",
         "source": "https://github.com/Leuchtfeuer/mautic-deutschepost",
